@@ -11,7 +11,7 @@ The files needed in order for this program to run are the Job.java file, and the
 ![Screenshot (9)](https://github.com/KaralineGlazier/CalculateJobMoney/assets/148881979/4df4fae4-f28b-44c6-9779-1f3bbd9d203d)
 
 
-##Code Example
+## Code Example
 This code snippet displays the information for the money made in a week. It uses the methods in the Job class to make the calculations for the week. 
 '''
 public static void weeklyStats(Job week) {
@@ -32,7 +32,3 @@ public static void weeklyStats(Job week) {
 		System.out.println();
 	}
 '''
-
-##Tests
-
-##

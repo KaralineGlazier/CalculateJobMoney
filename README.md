@@ -8,7 +8,8 @@ This program was created for a class project. It is a project that I have found 
 
 ## How To Use
 The files needed in order for this program to run are the Job.java file, and the TestJob.java file. The file to run is the TestJob.java file. Once the program is running, use the keyboard as input and follow the instructions on the console.  
-![Screenshot (9)](https://github.com/KaralineGlazier/CalculateJobMoney/assets/148881979/4df4fae4-f28b-44c6-9779-1f3bbd9d203d)
+![Screenshot (9)](https://github.com/KaralineGlazier/CalculateJobMoney/assets/148881979/8a8c4ea1-b694-43bd-ad04-e06db57b170a)
+
 
 
 ## Code Example

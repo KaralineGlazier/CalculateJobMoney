@@ -8,7 +8,7 @@ This program was created for a class project. It is a project that I have found 
 
 ##How To Use
 To use, 
-[Screenshot Of Running Code](Screenshot (9).png)
+![Screenshot Of Running Code](Screenshot (9).png)
 
 ##Code Example
 This code snippet displays the information for the money made in a week. It uses the methods in the Job class to make the calculations for the week. 

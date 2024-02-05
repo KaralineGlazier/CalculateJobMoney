@@ -7,8 +7,9 @@ This program is used to calculate how much money is made per hour in a job that 
 This program was created for a class project. It is a project that I have found useful in my own job for quick calculations, and I wanted to create a useful program. 
 
 ##How To Use
-To use, 
-![Screenshot Of Running Code](Screenshot (9).png)
+The files needed in order for this program to run are the Job.java file, and the TestJob.java file. The file to run is the TestJob.java file. Once the program is running, use the keyboard as input and follow the instructions on the console.  
+![Screenshot Of Running Code](![Screenshot (9)](https://github.com/KaralineGlazier/CalculateJobMoney/assets/148881979/4df4fae4-f28b-44c6-9779-1f3bbd9d203d)
+)
 
 ##Code Example
 This code snippet displays the information for the money made in a week. It uses the methods in the Job class to make the calculations for the week. 

@@ -12,7 +12,7 @@ The files needed in order for this program to run are the Job.java file, and the
 
 
 ## Code Example
-This code snippet displays the information for the money made in a week. It uses the methods in the Job class to make the calculations for the week. 
+This code snippet is a method in the TestJob class. It displays the information for the money made in a week. It uses the methods in the Job class to make the calculations for the week. 
 ```
 public static void weeklyStats(Job week) {
 		System.out.println("Hours worked: " + week.getHours());
